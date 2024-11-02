@@ -33,3 +33,4 @@ This classifier aims to help identify misinformation by analyzing the text of ne
 | Precision    | 0.89  |
 | Recall       | 0.91  |
 | F1 Score     | 0.90  |
+
